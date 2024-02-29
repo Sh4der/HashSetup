@@ -1,0 +1,7 @@
+# Parameter definitions for thorn HashSetup
+# $Header$
+
+BOOLEAN test_bool "some test boolean" STEERABLE = ALWAYS
+{
+
+} "1"

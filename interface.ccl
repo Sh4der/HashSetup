@@ -1,0 +1,10 @@
+# Interface definition for thorn HashSetup
+# $Header$
+
+implements: HashSetup
+
+public:
+CCTK_BYTE hashlist [2] TYPE=ARRAY DIM=1 SIZE=40 Timelevels=3
+{
+  hashlist
+} "hashlist description"

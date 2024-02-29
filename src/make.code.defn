@@ -1,0 +1,9 @@
+# Main make.code.defn file for thorn HashSetup
+# $Header$
+
+# Source files in this directory
+SRCS = HashSetup.c
+
+# Subdirectories containing source files
+SUBDIRS = 
+

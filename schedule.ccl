@@ -1,0 +1,7 @@
+# Schedule definitions for thorn HashSetup
+# $Header$
+
+schedule HashSetup at CCTK_PRESTEP
+{
+  LANG: C
+} "Print message to screen"
